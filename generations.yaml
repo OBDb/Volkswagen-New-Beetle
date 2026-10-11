@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_New_Beetle"
+
+generations:
+  - name: "New Beetle (A4/PQ34)"
+    start_year: 1998
+    end_year: 2010
+    description: "The New Beetle, built on the Golf IV platform with 2.0, 1.8 turbo, 2.5 and TDI engines."
